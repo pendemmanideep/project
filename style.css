@@ -1,0 +1,72 @@
+body
+{
+  background-color: black;
+  color: white;
+}
+
+.bg-1
+{
+  padding-left: 30px;
+  padding-top: 10%;
+  color: white;
+}
+.bg-2
+{
+margin-top: 80px;
+  margin-left: 13%;
+
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.bg-3
+{
+padding-left: 70px;
+}
+
+.bg-5
+{
+  padding-top: 07%;
+  padding-left: 30%;
+}
+h2
+{
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+}
+h4
+{
+  font-size: 45px;
+  margin-top: 7%;
+}
+h6
+{
+  padding-left: 10%;
+  font-family: 'Concert One', cursive;
+  font-size: 40px;
+  opacity: 30%;
+}
+p
+{
+
+  padding-left: 30px;
+  font-size: 27px;
+  opacity: 50%;
+  font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+.img1
+{
+  height: 50%;
+  width: 50%;
+  border-radius: 10px;
+}
+.bg-3
+{
+  font-size: 20px;
+padding-top: 5%;
+}
+.img-2
+{
+  margin-left: 35%;
+  margin-top: 25px;
+}
